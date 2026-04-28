@@ -16,20 +16,25 @@ The environment save path for the Iyagi series has been changed to /home/iyagi/.
 
 ### 전체 프로젝트
 
-현재 이 계정의 프로젝트들은 비공개 상태로 개발 중입니다.
-이 작업들은 미완성 보호와 자유로운 실험을 위해 비공개로 유지됩니다.
+이 계정의 프로젝트 소스 코드는 현재 비공개 저장소에서 개발 중입니다.
 
-언젠가 개발 의지나 능력이 다하는 시점이 오면,
-이 저장소들은 순차적으로 공개될 것입니다.
+실행 파일이나 공개 배포본은 이미 제공되고 있을 수 있지만,  
+소스 코드는 미완성 작업 보호와 자유로운 실험을 위해 비공개로 유지됩니다.
 
-그 시점이 오면, 작품이 만든 사람과 함께 사라지지 않고,
-누군가 이어가길 바랍니다.
+언젠가 내가 더 이상 개발을 이어갈 의지나 능력이 없어지는 시점이 오면,  
+이 소스 저장소들은 순차적으로 공개될 것입니다.
 
-The projects on this account are currently being developed in private repositories.
-They remain private to protect unfinished work and allow free experimentation.
+그날이 오면,  
+이 작품들이 만든 사람과 함께 사라지지 않고,  
+누군가에게 이어지길 바랍니다.
+
+The source code of the projects on this account is currently kept in private repositories.
+
+Public releases and executable builds may already be available,  
+but the source code remains private to protect unfinished work and allow free experimentation.
 
 When the time comes that I no longer have the will or ability to continue development,  
-these repositories will be gradually made public.
+these source repositories will be gradually opened to the public.
 
 When that day arrives,  
 I hope these works will not disappear with their creator,  
