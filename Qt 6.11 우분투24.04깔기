@@ -1,0 +1,13 @@
+*** Qt 6.11 우분투 설치 완성 ***
+
+✔ 1. pipx로 aqtinstall 설치
+sudo apt install pipx -y
+pipx ensurepath
+pipx install aqtinstall
+✔ 2. Qt 6.11 설치 (핵심)
+aqt install-qt linux desktop 6.11.0 linux_gcc_64 -O ~/Qt
+✔ 3. 설치 확인
+~/Qt/6.11.0/gcc_64/bin/qmake -v
+✔ 4. PATH 등록 (편하게 쓰려고)
+echo 'export PATH=$HOME/Qt/6.11.0/gcc_64/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
