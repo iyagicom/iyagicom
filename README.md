@@ -1,6 +1,6 @@
 ### ⚠️ Notice / 안내
 
-** 전제 빌드를 다해야 해서 배포판 일부 삭제 한다 **
+**전제 빌드를 다시 해야 해서 배포판 일부 삭제 한다**
 
 **EN**  
 Major feature additions are currently in progress, so you may encounter various bugs.  
