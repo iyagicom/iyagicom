@@ -1,6 +1,6 @@
 ### ⚠️ Notice / 안내
 
-**전제 빌드를 다시 해야 해서 배포판 일부 삭제 한다**
+**우분투 말고는 테스트할 시간이 없다!!**
 
 **EN**  
 Major feature additions are currently in progress, so you may encounter various bugs.  
