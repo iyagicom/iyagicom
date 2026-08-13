@@ -1,0 +1,13 @@
+{
+  "language": "korean",
+  "sandbox": {
+    "failIfUnavailable": false
+  },
+  "tui": "default",
+  "env": {
+    "CLAUDE_CODE_DISABLE_MOUSE": "1"
+  },
+  "theme": "dark",
+  "agentPushNotifEnabled": true,
+  "model": "opus"
+}
