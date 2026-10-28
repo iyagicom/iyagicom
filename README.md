@@ -29,7 +29,7 @@ The environment save path for the Iyagi series /home/iyagi/.config/IYAGI-INC.
 
 - [FSIyagi](https://github.com/iyagicom/FSIyagi) — 윈도우와 리눅스가 한 파티션을 함께 읽고 쓰는 삭제 보호 파일 시스템. NTFS·ext4·exFAT 대신 쓴다
 - [VMIyagi](https://github.com/iyagicom/VMIyagi) — 패키지 시험용 가상 머신 관리자. QEMU/KVM, 스냅샷 되돌리기, 자동 설치·실행 시험, 공유 폴더, Windows 11 손님 (Linux)
-- [AIIyagi](https://github.com/iyagicom/AIIyagi) — 
+- [AIIyagi](https://github.com/iyagicom/AIIyagi) — 코팅, 이미지, 랑(비디오)를 AI가 스스로 만든다
 
 #### 인터넷·연결·소통
 
